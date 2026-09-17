@@ -1,0 +1,18 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("Images/orange-background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    width: 100%;
+
+    margin-top: 10%;
+}
